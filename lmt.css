@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'cavier';
+    src: url(./Fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'cavierb';
+    src: url(./Fonts/CaviarDreams_Bold.ttf);
+}
+@font-face {
+    font-family: 'cavierit';
+    src: url(./Fonts/CaviarDreams_Italic.ttf);
+}
+@font-face {
+    font-family: cavierbit;
+    src: url(./Fonts/CaviarDreams_BoldItalic.ttf);
+}
+
+body,html{
+    font-family: 'cavierb', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+
+}
+h1{
+    color: blueviolet;
+}
+h4{
+    color: blueviolet;
+}
+.img1{
+    width: 20%;
+    height: 30%;
+    /* float: right; */
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+  /* mouse over link */
+  a:hover {
+    color: rgb(255, 52, 103);
+  }
+  
+.container1-md{
+    color: #000;
+}
